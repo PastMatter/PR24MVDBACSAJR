@@ -11,7 +11,7 @@
 <p>
   Since chess got popular in last few years, we decided make a Chess DataBase with games of players,
   which is going to help new players (also the expirienced ones) find out what are the most popular 
-  openings in chess. We are also going to find out what are the highest rated turnaments and 
+  openings in chess. We are also going to find out what are the highest rated tournaments and 
   which players are the best. 
 </p>
 <p>
