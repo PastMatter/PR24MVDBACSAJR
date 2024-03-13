@@ -15,8 +15,8 @@
   which players are the best. 
 </p>
 <p>
-  To make it more interesting, we will make a playable chess board where user can play chess and when comes he to
-  a certain position he can look in our DataBase and get the information about that position.
+  To make it more interesting, we will make a playable chess board where user can play chess and when he comes to
+  a certain position he can look into our DataBase and get the information about that position.
   For example, the user will be able to see what are the most popular moves in that position, who played them
   and what was the outcome of the games. 
 </p>
