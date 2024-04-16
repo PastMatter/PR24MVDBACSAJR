@@ -22,7 +22,7 @@
 </p>
 <h2>About Data</h2>
 Data will contain name of players, their ratings, country and moves of the game they played.
-Data will consist of turnament they played at and name of opening played.
+Data will consist of tournament they played at and name of opening played.
 Games will be presented in standard chess notation where numbers will present the ordinal number of move,
 and after that 2 moves played, first one by white and second one by black. At the end of the game will be 
 the result of the game presented as 1-0 if white won, 0-1 if black won or 1/2-1/2 if there was a draw.
@@ -30,7 +30,7 @@ the result of the game presented as 1-0 if white won, 0-1 if black won or 1/2-1/
 <h3>Goals</h3>
 <ul>
   <li>Find most popular openings in chess</li>
-  <li>What are the biggest and highest rated turnaments</li>
+  <li>What are the biggest and highest rated tournaments</li>
   <li>How does rating impacts games</li>
   <li>What about openings played?</li>
   <li>Make playable chess board to give user more options to find out about positions he is interested in</li>
