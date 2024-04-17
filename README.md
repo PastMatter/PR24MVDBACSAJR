@@ -47,7 +47,7 @@ chess.pgn which allowed us to easily read chess games and their info. </p>
    economic_data = pd.read_csv('economics.csv')
  </code></pre>
  <h2>Type of data</h2>
- <p>Here, we will present some part of our data we used, so you can have a grater picture of how we did our reasrch.</p>
+ <p>Here, we will present some part of our data we used, so you can have a greater picture of how we did our reasrch.</p>
  <pre>[Event "Troll Masters"]
 [Site "Gausdal NOR"]
 [Date "2001.01.05"]
