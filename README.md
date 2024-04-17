@@ -16,7 +16,7 @@
 </ul> 
 <p>First link consists of games played by most famouse players in history of chess. For now we only used data set with games of Magnus Carlsen.
 Data in this link is stored in standard way chess games are stored - in .pgn format. Each games consists of information about both players, opening played,
-tournament they played in, result, opening played and their ELO (rating).</p>
+tournament they played in, result and their ELO (rating).</p>
 <p>Second and third links are a standard CSV format of data. In 2nd we have games of magnus carlsen just stored in different way than in 1st one.
 Third data set consists of data about every country (population, GDP,...)</p>
 <h2>Data Initialization</h2>
