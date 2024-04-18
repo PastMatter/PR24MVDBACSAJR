@@ -66,22 +66,23 @@ chess.pgn which allowed us to easily read chess games and their info. </p>
 </pre>
 <p>CSV data sets contain same information, just in a little bit different format.</p>
 <h2>Questions</h2>
-<p>Till now, we were able to answer few of intreeting questions. First thing we did was look what are the most popular openings in chess, 
+<p>Till now, we were able to answer few of interesting questions. First thing we did was look what are the most popular openings in chess, 
 since the winner can be decided in first 10-15 moves in most cases. Since in this part of game your memory comes to play and 
 not your skill, we thought it would be great to know which openings show best results and boost our chanses of winning.
 And so, what is better then to look at what best player in the world, Magnus Carlsen, plays.</p>
 <p><img src="https://github.com/PastMatter/PR24MVDBACSAJR/assets/73186445/89282555-c41d-4953-b08e-8bcfa4052995" alt=""></p>
-<p>And as we can see on the graph most popular openning is Queen's pawn gamit and Sicilian defense. Ofcourse, these are the opening played 
+<p>And as we can see on the graph most popular openning is Queen's pawn gamit and Sicilian defense. Of course, these are the opening played 
 by Magnus Carlsen and I am sure none of us can play like him, but this is just a great starting point for everyone who wants to play
 chess seriously.</p>
-<p>Next question we answered was if players performance decreses over time like in other sports. In other sports people, for example footbal,
+<p>Next question we answered was if players performance decreses over time like in other sports. In other sports, for example football,
 players usually retire when they reach 35 years. There are also some other factors, like injuries, but we do not have that in chess :).
 And then again, we choose to look into Carlsen's progress over years.</p>
 <p><img src="https://github.com/PastMatter/PR24MVDBACSAJR/assets/73186445/5e3ed408-5dc4-4c04-8982-d3fb6ca04f27" alt=""></p>
-<p>As shown in the graph, Magnus has been consistent for almost 20 years of his career with around 75% win-rate from 2005 all over to 2022.</p>
-<p>Now let's hop into the world of economics. And our question is is GDP of a country in any correlation with number of high rated players in that same country.
+<p>As shown in the graph, Magnus has been consistent for almost 20 years of his career with around 75% win-rate from 2005 all over to 2022.
+Which shows that chess can be played for a long time at the same level and that is great for chess lovers, being able to play better every year.</p>
+<p>Now let's hop into the world of economics. And our question is: Is GDP of a country in any correlation with number of high rated players in that same country.
 This is where the data set with country information came in hadny. We looked into countries with highest GDP and number of high rated players from that countries and found out
-that there is no correlation between those two.</p>
+that there is no correlation between those two. Which just shows that if you would rather follow money than passion, you should not choose chess :)</p>
 <p><img src="https://github.com/PastMatter/PR24MVDBACSAJR/assets/73186445/a3a15a0d-bb92-4119-b762-eb2cb4b665f3" alt=""></p>
 <p>And for the final question, we tried to show the distribution of ratings which might seem interesting to someone, since you can compare your own rating (if you play chess)
 with rating of other players and see in which group you belong to.</p>
