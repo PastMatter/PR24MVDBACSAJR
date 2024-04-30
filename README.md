@@ -3,7 +3,7 @@
   <li>Marko Vuckovic</li>
   <li>David Bojanić</li>
   <li>Alem Čaušević</li>
-  <li>Royman Jernej</li>
+  <li>Rozman Jernej</li>
   <li>Stefanija Atanasova</li>
 </ul>
 
